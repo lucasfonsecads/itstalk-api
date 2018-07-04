@@ -1,1 +1,3 @@
-venv
+venvy
+.vscode
+api/__pycache__/
